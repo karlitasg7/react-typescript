@@ -1,4 +1,4 @@
-This project is a practice to test react with typescript and tailwind.
+This project is a practice to test react with typescript, tailwind and next.
 
 It's a simple page with a button to show fox image in lazy mode.
 
