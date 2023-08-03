@@ -2,6 +2,7 @@
   "name": "react-typescript",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/react-typescript",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
