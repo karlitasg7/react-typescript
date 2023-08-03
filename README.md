@@ -1,3 +1,8 @@
+This project is a practice to test react with typescript and tailwind.
+
+It's a simple page with a button to show fox image in lazy mode.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
