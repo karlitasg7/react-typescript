@@ -34,6 +34,7 @@ export const LazyImage = ({ src, ...imgProps }: Props): JSX.Element => {
     return (
         <img
             ref={node}
+            alt="fox image"
             src={currentSrc}
             {...imgProps}
         />
