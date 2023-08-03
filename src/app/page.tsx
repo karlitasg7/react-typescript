@@ -1,6 +1,5 @@
 'use client';
 
-import Image from 'next/image'
 import { LazyImage } from '../../components/LazyImage';
 import { MouseEventHandler, useState } from 'react';
 
@@ -26,7 +25,7 @@ export default function Home() {
 
   return (
     <main className="flex flex-col items-center justify-between p-24">
-      Hello world
+      <p className="text-lg p-10">Hello random fox!!!</p>
 
       <button
         onClick={addNewFox}
@@ -48,5 +47,5 @@ export default function Home() {
       ))}
 
     </main>
-  )
-}
+  );
+};
